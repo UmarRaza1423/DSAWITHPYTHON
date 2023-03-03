@@ -1,1 +1,1 @@
-print("hello i am Muhammad umar & i am also a python developer")
+print("hello i am Muhammad umar & i am also a python developer" ist)
